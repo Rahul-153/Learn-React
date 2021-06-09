@@ -3,10 +3,12 @@
     display: grid;
     grid-template-columns: auto auto;
     padding: 10px;
-    height: 800px;
-    width: 800px;
+    height: 700px;
+    width: 700px;
      padding-top: 100px;
-    padding-right: 200px;
+     padding-bottom: 400px;
+    padding-right: 300px;
     margin-left: 100px;
-    margin-right: 100px;
+    margin-right: 300px;
+    margin-bottom: 100px;
 }
